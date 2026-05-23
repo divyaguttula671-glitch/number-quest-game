@@ -181,8 +181,7 @@ Just give credit where it's due! 🙏
 ## 👨‍💻 Author
 
 Made with ❤️ by **Divya Guttula**
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://divyaguttula671-glitch.github.io/number-quest-game/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]https://divyaguttula671-glitch.github.io/number-quest-game/
 
 ---
 
