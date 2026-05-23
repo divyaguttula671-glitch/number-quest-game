@@ -12,19 +12,9 @@
 
 A beautiful, interactive number guessing game with Higher/Lower hints, dynamic scoring, and a stunning dark UI.
 
-[🕹️ Play Live](#) • [📸 Screenshots](#screenshots) • [🚀 Features](#features) • [⚙️ Installation](#installation)
+[🕹️ Play Live](#) • [🚀 Features](#features) • [⚙️ Installation](#installation)
 
 </div>
-
----
-
-## 📸 Screenshots
-
-| Game Screen | Win State | Difficulty Selection |
-|-------------|-----------|----------------------|
-| Dark cosmic UI with guess input | Confetti animation on win | Easy / Medium / Hard modes |
-
-> *Beautiful dark cosmic theme with animated stars, gradient text, and color-coded hints.*
 
 ---
 
@@ -190,7 +180,7 @@ Just give credit where it's due! 🙏
 
 ## 👨‍💻 Author
 
-Made with ❤️ by **[Your Name]**
+Made with ❤️ by **Divya Guttula**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
 
